@@ -1,6 +1,6 @@
 #   ******************************************************************************
 #   * @file           : app.py
-#   * @brief          : Uruanalisis software de laboratorio clinico
+#   * @brief          : ANALISIS DE SEDIMETOS URINARIOS USANDO VISION POR COMPUTADORA
 #   * 
 #   * @author			: Angel Juarez Monroy & Hadali Miliani Montero Aguilar
 #   * @date			: apr 16, 2026
